@@ -22,6 +22,7 @@ pip instal itchat pyreadline
 目前只有这些简单的功能，注册一个tuling的api应该可以实现自动聊天回复。
 
 欢迎小伙伴一起来python交流
-WechatID：gaegle
-QQ：306347485
+
+* WechatID：gaegle
+* QQ：306347485
 
